@@ -2,4 +2,4 @@ api:
   reboot_timeout: 0s
 
 dashboard_import:
-  package_import_url: github://Artifan92/smart_domofon/domofon.yaml@master
+  package_import_url: github://Artifan92/smart_domofon/domofon.yaml@main

@@ -31,9 +31,9 @@ substitutions:
 
 api:
   encryption:
-    key: ''
+    key: 'fjc2L+NtM/pLaDtBhW0nBxmErYBgQlwlRCfCduo6xs4='
 
 packages:
-  base: github://Artifan92/smart_domofon/blob/packages/base.yaml@main
-  api: github://Artifan92/smart_domofon/blob/packages/api.yaml@main
-  web_server: github://Artifan92/smart_domofon/blob/packages/web_server.yaml@main
+  base: github://Artifan92/smart_domofon/packages/base.yaml@main
+  api: github://Artifan92/smart_domofon/packages/api.yaml@main
+  web_server: github://Artifan92/smart_domofon/packages/web_server.yaml@main

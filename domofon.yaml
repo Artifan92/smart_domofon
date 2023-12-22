@@ -37,4 +37,3 @@ packages:
   base: github://Artifan92/smart_domofon/packages/base.yaml@master
   api: github://Artifan92/smart_domofon/packages/packages/api.yaml@master
   web_server: github://Artifan92/smart_domofon/packages/web_server.yaml@master
-  captive_portal: github://Artifan92/smart_domofon/packages/captive_portal.yaml@master

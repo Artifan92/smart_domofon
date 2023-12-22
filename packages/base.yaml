@@ -4,10 +4,10 @@ esphome:
   build_path: $build_path
   platform: ESP8266
   board: $board_name
-  comment: 'domofon'
+  comment: 'espdomofon'
   esp8266_restore_from_flash: true
   project:
-    name: 'domofon'
+    name: 'espdomofon'
     version: '1.0.0'
   platformio_options:
     build_flags: -DBEARSSL_SSL_BASIC -DMMU_IRAM_SIZE=0xC000 -DMMU_ICACHE_SIZE=0x4000 -DMMU_IRAM_HEAP
